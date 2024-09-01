@@ -1,4 +1,4 @@
-// even number
+// even number while loop
 
 let num = 1;
 
