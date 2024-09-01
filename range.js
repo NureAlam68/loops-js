@@ -13,19 +13,11 @@
 // 50 to 100 number
 
 
-// let num = 50;
+let num = 50;
 
-// while(num <= 100){
-//     console.log(num);
-//     num++;
-// }
-
-
-// odd number
-
-let num = 1;
-
-while(num < 20){
+while(num <= 100){
     console.log(num);
-    num = num + 2;
+    num++;
 }
+
+
